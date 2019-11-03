@@ -1,0 +1,16 @@
+demo folder (filepath to your tf/demos folder)
+pre-startmovie commands (any series of commands here)
+framerate ###
+crosshair 0/1
+HUD 0/1
+record method (h264/tga/none)
+start delay ticks ###
+ticks before bookmark ###
+ticks after bookmark ###
+ticks before killstreak per unlisted kill ###
+ticks after killstreak ###
+minimum ticks between clips ###
+interval for rewind double taps ###
+rewind tick amount ###
+STV viewport ###
+record continuous 0/1

@@ -1,0 +1,16 @@
+demo folder C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\demos\
+pre-startmovie commands hud_saytext_time 0;voice_enable 0
+framerate 60
+crosshair 0
+HUD 1
+record method h264
+start delay ticks 500
+ticks before bookmark 1000
+ticks after bookmark 200
+ticks before killstreak per unlisted kill 500
+ticks after killstreak 300
+minimum ticks between clips 500
+interval for rewind double taps 200
+rewind tick amount 1000
+STV viewport 0
+record continuous 1
