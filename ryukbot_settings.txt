@@ -6,7 +6,7 @@ HUD 1
 record method h264
 start delay ticks 500
 ticks before bookmark 1000
-ticks after bookmark 200
+ticks after bookmark 300
 ticks before killstreak per unlisted kill 500
 ticks after killstreak 300
 minimum ticks between clips 500
